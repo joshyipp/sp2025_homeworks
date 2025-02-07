@@ -12,6 +12,7 @@
 \vspace{2em}
 
 \noindent\textbf{Note:} Refer to the equations in the \textit{Understanding Deep Learning} textbook to solve the following problems.
+\\ \noindent\textbf{Disclaimer:} Used GPT for formatting latex of derivation. Work was done on paper and sent to GPT for latex transcription.
 
 \vspace{2em}
 
@@ -19,10 +20,61 @@
 
 To walk “downhill” on the loss function (equation 2.5), we measure its gradient with respect to the parameters $\phi_0$ and $\phi_1$. Calculate expressions for the slopes $\frac{\partial L}{\partial \phi_0}$ and $\frac{\partial L}{\partial \phi_1}$.
 
+
+\vspace{2em}
+Equation 2.5: 
+\[
+L[\phi] = \sum_{i=1}^I \left(f[x_i, \phi] - y_i \right)^2 = \sum_{i=1}^I \left(\phi_0 + \phi_1 x_i - y_i \right)^2
+\]
+\[
+\frac{\partial L}{\partial \phi_0} = \frac{\partial}{\partial \phi_0} \sum_{i=1}^I \left( \phi_0 + \phi_1 x_i - y_i \right)^2
+\]
+\[
+\frac{\partial L}{\partial \phi_0} = 2\sum_{i=1}^I \left( \phi_0 + \phi_1 x_i - y_i \right) \cdot \frac{\partial}{\partial \phi_0} \left( \phi_0 + \phi_1 x_i - y_i \right)
+\]
+\[
+\frac{\partial L}{\partial \phi_0} = 2 \sum_{i=1}^I \left( \phi_0 + \phi_1 x_i - y_i \right)
+\]
+And derivation for the other parameter:
+\[
+\frac{\partial L}{\partial \phi_1} = \frac{\partial}{\partial \phi_1} \sum_{i=1}^I \left( \phi_0 + \phi_1 x_i - y_i \right)^2
+\]
+\[
+\frac{\partial L}{\partial \phi_1} = 2 \sum_{i=1}^I x_i \left( \phi_0 + \phi_1 x_i - y_i \right)
+\]
+
 \vspace{20em}
 
 \section*{Problem 2.2}
 
 Show that we can find the minimum of the loss function in closed-form by setting the expression for the derivatives from Problem 2.1 to zero and solving for $\phi_0$ and $\phi_1$.
-test
+
+\vspace{2em}
+
+Need to set the derivatives equal to 0 and solve.
+\[
+0 = 2 \sum_{i=1}^I \left( \phi_0 + \phi_1 x_i - y_i \right)
+\]
+\[
+I \phi_0 = \sum_{i=1}^I y_i - \phi_1 \sum_{i=1}^I x_i
+\]
+\[
+\phi_0 = \bar{y} - \phi_1 \bar{x}
+\]
+And for the other parameter:
+\[
+0 = 2 \sum_{i=1}^I x_i \left( \phi_0 + \phi_1 x_i - y_i \right)
+\]
+\[
+\phi_0 \sum_{i=1}^I x_i + \phi_1 \sum_{i=1}^I x_i^2 = \sum_{i=1}^I x_i y_i
+\]
+\[
+(\bar{y} - \phi_1 \bar{x}) \sum_{i=1}^I x_i + \phi_1 \sum_{i=1}^I x_i^2 = \sum_{i=1}^I x_i y_i
+\]
+\[
+\phi_1 \left( \sum_{i=1}^I x_i^2 - I \bar{x}^2 \right) = \sum_{i=1}^I x_i y_i - I \bar{x} \bar{y}
+\]
+\[
+\phi_1 = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2}
+\]
 \end{document}
