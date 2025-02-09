@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1738960652.74758 "c:/Users/yip/Documents/GitHub/sp2025_homeworks/hw2/ps_2.tex" "ps_2.pdf" "ps_2" 1738960653.06564 0
+["pdflatex"] 1738969203.36979 "c:/Users/yip/Documents/GitHub/sp2025_homeworks/hw2/ps_2.tex" "ps_2.pdf" "ps_2" 1738969203.71222 0
   "C:/Users/yip/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738555452 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/yip/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1738555455 11548 0bb996c1e9c91848b114029d804ea9ce ""
   "C:/Users/yip/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1738080862 12012425 1f799a444fada591ceead4a240a40da9 ""
+  "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -16,6 +18,7 @@
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
@@ -23,6 +26,7 @@
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amsfonts.sty" 1358197772 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
@@ -37,9 +41,9 @@
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1732534639 20144 d7d3a15c7efd9458741458961c8a96e7 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1732534639 8448 bd43e47d84d3704b7eabd59a92e43bf1 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "c:/Users/yip/Documents/GitHub/sp2025_homeworks/hw2/ps_2.tex" 1738960652 1327 5d84596b322d1667b221fb7f9015a637 ""
-  "ps_2.aux" 1738960652 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "ps_2.tex" 1738960652 1327 5d84596b322d1667b221fb7f9015a637 ""
+  "c:/Users/yip/Documents/GitHub/sp2025_homeworks/hw2/ps_2.tex" 1738969202 3823 46d863f42a357efc853ba74749333aa6 ""
+  "ps_2.aux" 1738969203 114 8633155281345f9982680ffeeb91f27e "pdflatex"
+  "ps_2.tex" 1738969202 3823 46d863f42a357efc853ba74749333aa6 ""
   (generated)
   "ps_2.aux"
   "ps_2.log"
