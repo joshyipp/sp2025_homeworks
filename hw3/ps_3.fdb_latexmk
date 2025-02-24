@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1739571274.79348 "c:/Users/yip/Documents/GitHub/sp2025_homeworks/hw3/ps_3.tex" "ps_3.pdf" "ps_3" 1739571275.17336 0
+["pdflatex"] 1740424629.69938 "c:/Users/yip/Documents/GitHub/sp2025_homeworks/hw3/ps_3.tex" "ps_3.pdf" "ps_3" 1740424630.05015 0
   "C:/Users/yip/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1739510037 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/yip/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1739567806 12012425 d67d7c0b7d863ac94ef75401176b7c2d ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -41,9 +41,9 @@
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1732534639 20144 d7d3a15c7efd9458741458961c8a96e7 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1732534639 8448 bd43e47d84d3704b7eabd59a92e43bf1 ""
   "C:/Users/yip/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "c:/Users/yip/Documents/GitHub/sp2025_homeworks/hw3/ps_3.tex" 1739571274 3978 d24d75846dec445033ce905551ecbb14 ""
-  "ps_3.aux" 1739571275 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "ps_3.tex" 1739571274 3978 d24d75846dec445033ce905551ecbb14 ""
+  "c:/Users/yip/Documents/GitHub/sp2025_homeworks/hw3/ps_3.tex" 1740424627 3978 d24d75846dec445033ce905551ecbb14 ""
+  "ps_3.aux" 1740424629 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "ps_3.tex" 1740424627 3978 d24d75846dec445033ce905551ecbb14 ""
   (generated)
   "ps_3.aux"
   "ps_3.log"
